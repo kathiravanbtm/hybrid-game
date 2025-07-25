@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cfgpgv74kvhiq"
-path="res://.godot/imported/new2.png-8d16b41af95ba3833da54f6c97cbb088.ctex"
+uid="uid://dpgdswkj3pspd"
+path="res://.godot/imported/2.png-4a57d249636b2691aa4c2e5ac6bcef54.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/background/new2.png"
-dest_files=["res://.godot/imported/new2.png-8d16b41af95ba3833da54f6c97cbb088.ctex"]
+source_file="res://assets/stick_figure_character_sprites_2d/background/2.png"
+dest_files=["res://.godot/imported/2.png-4a57d249636b2691aa4c2e5ac6bcef54.ctex"]
 
 [params]
 
