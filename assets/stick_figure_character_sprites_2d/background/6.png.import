@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bdynmclqe8ilu"
-path="res://.godot/imported/me inside Canva. But here’s how you can use Canva to make your pr.png-2ac419df37380a6328ab1e986d75798b.ctex"
+uid="uid://6hefrr1kdjq2"
+path="res://.godot/imported/6.png-e6b8478667f97d27a844c62244f3d2a5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/background/me inside Canva. But here’s how you can use Canva to make your pr.png"
-dest_files=["res://.godot/imported/me inside Canva. But here’s how you can use Canva to make your pr.png-2ac419df37380a6328ab1e986d75798b.ctex"]
+source_file="res://assets/stick_figure_character_sprites_2d/background/6.png"
+dest_files=["res://.godot/imported/6.png-e6b8478667f97d27a844c62244f3d2a5.ctex"]
 
 [params]
 
