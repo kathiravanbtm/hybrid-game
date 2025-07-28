@@ -1,7 +1,7 @@
 [gd_scene load_steps=33 format=3 uid="uid://drhe7ilfs8sfc"]
 
 [ext_resource type="Texture2D" uid="uid://pnrutbpydu65" path="res://assets/stick_figure_character_sprites_2d/Stick Figure Character Sprites 2D/Fighter sprites/fighter_Idle_0001.png" id="1_smehm"]
-[ext_resource type="Script" uid="uid://bjlttl1m06b3m" path="res://scripts/player.gd" id="1_ur7pv"]
+[ext_resource type="Script" uid="uid://bjlttl1m06b3m" path="res://scripts/FILE1.gd" id="1_ur7pv"]
 [ext_resource type="Texture2D" uid="uid://cocts4rsfnh2b" path="res://assets/stick_figure_character_sprites_2d/Stick Figure Character Sprites 2D/Fighter sprites/fighter_Idle_0002.png" id="2_ur7pv"]
 [ext_resource type="Texture2D" uid="uid://dpq1kbdoit6ca" path="res://assets/stick_figure_character_sprites_2d/Stick Figure Character Sprites 2D/Fighter sprites/fighter_Idle_0003.png" id="3_y4r1p"]
 [ext_resource type="Texture2D" uid="uid://lu6xal77sc85" path="res://assets/stick_figure_character_sprites_2d/Stick Figure Character Sprites 2D/Fighter sprites/fighter_Idle_0004.png" id="4_d2wvv"]
@@ -142,8 +142,8 @@ animations = [{
 }]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_qfm1y"]
-radius = 24.0
-height = 160.0
+radius = 52.71
+height = 143.7
 
 [node name="CharacterBody2D" type="CharacterBody2D"]
 script = ExtResource("1_ur7pv")
@@ -155,5 +155,5 @@ animation = &"walk"
 autoplay = "idle"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(0, -81)
+position = Vector2(3, -79)
 shape = SubResource("CapsuleShape2D_qfm1y")
