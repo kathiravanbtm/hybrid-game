@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bc3j53m0ogm4b"
-path="res://.godot/imported/sdfjkfjk.png-7e4ed4aed37143f2518ddb2abe7736ba.ctex"
+uid="uid://bbpiu7dllkubw"
+path="res://.godot/imported/z10.png-914b6e3fd11b2770cdd6c81f64f2faf9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sdfjkfjk.png"
-dest_files=["res://.godot/imported/sdfjkfjk.png-7e4ed4aed37143f2518ddb2abe7736ba.ctex"]
+source_file="res://assets/stick_figure_character_sprites_2d/Stick Figure Character Sprites 2D/Pistol sprites/z10.png"
+dest_files=["res://.godot/imported/z10.png-914b6e3fd11b2770cdd6c81f64f2faf9.ctex"]
 
 [params]
 
